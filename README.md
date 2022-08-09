@@ -1,4 +1,4 @@
-# fox_project
+# The Fox Project
 The fox project includes the Freecad files and .stl files for several different hidden transmitters intended for use with amateur radio. 
 Mechanical drawings of common components, if not readily available, may also be uploaded. Please use FreeCad or openSCAD compatible files for all designs.
 If you design a harness for a different radio, microcontroller, or battery, please include the raw cad files, not just the .stl, in your upload.
