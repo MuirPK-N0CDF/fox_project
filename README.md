@@ -8,21 +8,29 @@ Also included in the project is the code for the microcontroller used to control
 
 
 Current supported controller:
-Arduino MKRZERO (for SD & DAC for pre-recorded audio, just to make it more friendly.)
-Arduino UNO (I have the code and cad files somewhere. I gotta dig them up. CW only using the PWM hack.)
+
+>Arduino MKRZERO (for SD & DAC for pre-recorded audio, just to make it more friendly.)
+
+>Arduino UNO (I have the code and cad files somewhere. I gotta dig them up. CW only using the PWM hack.)
 
 
 Current supported Radios:
-GT-5R
+
+>GT-5R
 
 Current supported battery:
-Fuse (plus you) 5000 mAh (MKRZERO model)
-Some cheap amazon battery (UNO model)
+
+>Fuse (plus you) 5000 mAh (MKRZERO model)
+
+>Some cheap amazon battery (UNO model)
 
 Plan to add:
-Other Arduinos
-Yaesu FT-60
-DeWalt battery (will need additional hardware for 12/20/60v to 5v and possibly 7.2v outputs)
+
+>Other Arduinos
+
+>Yaesu FT-60
+
+>DeWalt battery (will need additional hardware for 12/20/60v to 5v and possibly 7.2v outputs)
 
 
 
